@@ -1,4 +1,4 @@
-|   Date	|   Account_no| Deposit	|  Withdraw 	| Transaction |
+|   Date	| Sender Account_no| Receiver Account_no	| Transaction Status| Transaction Amount|
 |---	|---	|---	|---	|--- |
 |   	|   	|   	|   	|    |
 |   	|   	|   	|   	|
