@@ -7,5 +7,5 @@
 |   1005	|  Anubhav Mallick 	|   11500	|   Active	|
 |  1006 	| Abhay Ranjan Bara  	|  1200 	| Active  	|
 |   1007	| Meherobuddin Mandal 1  	|   3200	|  Active 	|
-|   	|   	|   	|   	|
+|   1008	| Bishal kumar shaw  	| 1900  	|   Active	|
 |   	|   	|   	|   	|
