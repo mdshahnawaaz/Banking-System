@@ -2,9 +2,9 @@
 
 IDEA
 
-A Banking system is a software application that allows fruit-seller to manage various  operations, such as supplier table, stock table, sales table.
-This tables gives us idea about the daily sale and daily supplier of the fruit.\
-This tables also provides daily profit of the fruit that sales in that day.\
+A Banking system is a software application that allows Bank employee to manage various  operations, such as deposit amount, withdraw amount & transaction.
+This tables gives us idea about the daily traction of the user.
+This tables also provides balance of the  user.
 
 --------CONTRIBUTORS---------------------
 
